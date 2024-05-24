@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백준풀이/백준풀이.md",
+                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "백준풀이/백준풀이.md",
+                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "백준풀이/백준풀이.md",
+                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "백준풀이/백준풀이.md"
+                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md"
               }
             }
           },
@@ -168,16 +168,17 @@
       "command-palette:명령어 팔레트 열기": false,
       "vscode-editor:Create Code File": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "kr-book-info-plugin:Add Book Info": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "375a29342a93b0b5",
   "lastOpenFiles": [
-    "팀 프로젝트/무제 파일.md",
+    "첨부파일/데이터 변환.doc",
     "백준풀이/백준풀이.md",
+    "팀 프로젝트/무제 파일.md",
     "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
     "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/넘파이 모듈.md",
     "템플릿/project.md",
@@ -208,7 +209,6 @@
     "readME.md",
     "백준풀이/(G1)1114 통나무 자르기.md",
     "도서/도서 목록.md",
-    "도서/도서목록/C 기초 플러스 C의 바이블 최신 C11이 포함된 스테판 프라타의.md",
     "여행지/교토",
     "여행지/오사카",
     "여행지/춘천",
