@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d1ee935e59a8d663",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c160951e4fc16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88bff2c59da1a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f21824382ebcd4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "마인크래프트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c5c5af2a3e427db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a883dad8cee39006",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "354bef1f3e368a29",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "414408b93294e360",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "82906470f53d7efe",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a2aff19aedf290de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2d872fc1026183f8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "마인크래프트.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "13bcc68e51c72c2a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "마인크래프트.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "04298bdeefe36e9f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "마인크래프트.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "vscode-editor:Create Code File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "templater-obsidian:Templater": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2f21824382ebcd4d",
+  "lastOpenFiles": [
+    "Home.md",
+    "마인크래프트.md",
+    "algorithm/알고리즘.md",
+    "음악/일본어/베텔기우스 _ yuuri.md",
+    "백준풀이/(S1)1391 음하철도 구구팔.md",
+    "백준풀이/(P5)3197 백조의 호수.md",
+    "conflict-files-obsidian-git.md",
+    "음악/음악 리스트.md",
+    "템플릿/노래 플레이 리스트.md",
+    "readME.md",
+    "init.md"
+  ]
+}

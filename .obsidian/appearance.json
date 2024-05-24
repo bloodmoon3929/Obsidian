@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "my_style"
+  ]
+}

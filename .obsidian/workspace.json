@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "71728c97a2a1be62",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eaa818fe08c909a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e86aff94aded6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/넘파이 모듈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375a29342a93b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백준풀이/백준풀이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77861e98fe7b8fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "efc8fd1e6ba7cd4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c36f9b91f8d48b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab467b026578a2a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53832f9f2428d454",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6f4ad1c2aa030a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "027ee1828f3a0143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a147f0252f8f7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "백준풀이/백준풀이.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbd7777875e9ded6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "백준풀이/백준풀이.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b7d0acfa174de70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "29413b3d11b5ceca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "백준풀이/백준풀이.md"
+              }
+            }
+          },
+          {
+            "id": "cd979075b57d0e27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "vscode-editor:Create Code File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "375a29342a93b0b5",
+  "lastOpenFiles": [
+    "팀 프로젝트/무제 파일.md",
+    "백준풀이/백준풀이.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/넘파이 모듈.md",
+    "템플릿/project.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/사이킷런.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/auto encoder.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/GNN.md",
+    "팀 프로젝트/팀 프로젝트.md",
+    "Home.md",
+    "팀 프로젝트/3학년 1학기/capstone/언제 볼까.md",
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석",
+    "팀 프로젝트/3학년 1학기/capstone",
+    "팀 프로젝트/3학년 1학기",
+    "팀 프로젝트",
+    "게임/마작.md",
+    "게임",
+    "첨부파일/마작패.png",
+    "첨부파일/마작패.jpg",
+    "게임/마인크래프트.md",
+    "여행지/여행지.md",
+    "여행지/오사카/도톤보리_엑티비티.md",
+    "템플릿/노래 플레이 리스트.md",
+    "setting/Setting.md",
+    "setting/vscode 세팅.md",
+    "setting/react 세팅.md",
+    "음악/음악 리스트.md",
+    "음악/일본어/봄을 고하다_yama.md",
+    "setting/obsidian 세팅.md",
+    "readME.md",
+    "백준풀이/(G1)1114 통나무 자르기.md",
+    "도서/도서 목록.md",
+    "도서/도서목록/C 기초 플러스 C의 바이블 최신 C11이 포함된 스테판 프라타의.md",
+    "여행지/교토",
+    "여행지/오사카",
+    "여행지/춘천",
+    "첨부파일/zNex~$hare여행 계획.xlsx",
+    "여행지/가평",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}
