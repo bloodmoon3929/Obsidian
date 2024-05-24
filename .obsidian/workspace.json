@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
+                "file": "readME.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
+                "file": "readME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
+                "file": "readME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md"
+                "file": "readME.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "375a29342a93b0b5",
   "lastOpenFiles": [
+    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
     "첨부파일/데이터 변환.doc",
     "백준풀이/백준풀이.md",
     "팀 프로젝트/무제 파일.md",
-    "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/자페스펙트럼 분석.md",
     "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/넘파이 모듈.md",
     "템플릿/project.md",
     "팀 프로젝트/3학년 1학기/자페스팩트럼 분석/사이킷런.md",
@@ -213,7 +213,6 @@
     "여행지/오사카",
     "여행지/춘천",
     "첨부파일/zNex~$hare여행 계획.xlsx",
-    "여행지/가평",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
